@@ -43,6 +43,8 @@ main{
 .img-pers{
 
     border-radius: 50%;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -57,7 +59,7 @@ main{
 }
 .title-card2{
 
-    justify-content: center ;
+    align-content: center ;
 }
 .card{
     display: flex;
