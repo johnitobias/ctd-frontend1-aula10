@@ -1,0 +1,78 @@
+* {
+   margin: 0px;
+
+}
+
+header{
+    width: 100%;
+}
+
+main{
+
+    justify-items: center;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    align-content: normal;
+    justify-content: space-around;
+   
+
+}
+
+.Descontos {
+
+    background-color: aqua;
+    
+
+}
+.title {
+
+    background-color: blue;
+
+}
+
+.card1 {
+    background-color: darkgrey;
+    width: 374px;
+    padding-left: 10px;
+    padding-right: 10px;
+      
+}
+
+.img-pers{
+
+    border-radius: 50%;
+
+}
+
+.card2 {
+    background-color: darkgrey;
+    width: 374px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+    
+    
+}
+.title-card2{
+
+    justify-content: center ;
+}
+.card{
+    display: flex;
+    position: relative;
+    background-color: aqua;
+   
+}
+
+.rodape{
+
+    background-color: aqua;
+
+}
+
+.button{
+
+    justify-content: center;
+}
