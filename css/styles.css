@@ -30,23 +30,42 @@ main{
     align-content: normal;
     justify-content: space-around;
    
+   
 
 }
 
-.Descontos {
+.conteiner-top {
 
-    background-color: aqua;
+    background-color: #1CD1B0;
     
 
 }
+
+.Descontos{
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
 .title {
 
-    background-color: blue;
+    background-color: #00669F;
+    
+
+}
+
+.text-title{
+
+    padding-top: 28px;
+    padding-left: 28px;
+    padding-bottom: 26px;  
 
 }
 
 .card1 {
-    background-color: darkgrey;
+    background-color: #E5E5E5;;
     width: 374px;
     padding-left: 10px;
     padding-right: 10px;
@@ -65,7 +84,7 @@ main{
 
 
 .card2 {
-    background-color: darkgrey;
+    background-color: #E5E5E5;;
     width: 374px;
     padding-right: 10px;
     padding-left: 10px;
@@ -86,6 +105,7 @@ main{
 }
 
 .curtir{
+
     align-content: flex-start;
     justify-content: flex-start;
     
@@ -93,7 +113,7 @@ main{
 }
 
 .heart {
-
+    
     align-items: flex-start;
     justify-items: flex-start;
     justify-content: flex-start;
@@ -115,16 +135,26 @@ main{
 .button{
 
     align-content: center;
+    padding-top: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 16px;  
+    background-color: #00669F;
 }
 
 footer{
 
     margin-top: 100px;
-
+   
 }
 
 .rodape{
 
-    background-color: aqua;
+    background-color: #00669F;
+    padding-top: 16px;
+    padding-left: 28px;
+    padding-bottom: 16px;  
+
+
 
 }
